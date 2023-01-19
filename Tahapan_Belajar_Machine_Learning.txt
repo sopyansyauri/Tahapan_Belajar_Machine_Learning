@@ -1,0 +1,16 @@
+	INI UNTUK SUPERVISED LEARNING
+1. Integral dan Turunan
+2. Ajabar Linier (Operasi Matriks)
+3. Probabilitas dan Statistik
+4. Neural Network
+5. Hidden Layer Neural Network(NN)
+6. Convolution Neural Network(CNN)
+7. Deep Learning
+	Tools Deep Learning:
+	- RNN
+8. Bayesian
+
+Produk dari sebuah Machine Learning adalah
+- sebuah Model Prediksi
+
+Jadi kalau sudah menemukan Model dari sebuah data, Model tersebut bisa di simpan kedalam sebuah server, handphone/HP untuk memprediksi sebuah data yang di masukan/input

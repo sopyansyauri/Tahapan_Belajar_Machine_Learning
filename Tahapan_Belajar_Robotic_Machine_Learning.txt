@@ -1,0 +1,2 @@
+- markov decision process (MDP)
+- Reinforcement Learning
